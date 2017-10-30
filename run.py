@@ -1,5 +1,6 @@
 import subprocess
 import os, sys
+import random
 
 
 def show_match(bot, opponent_bot, map_num):
@@ -26,7 +27,10 @@ def test(bot, opponent_bot, map_num):
     print(command)
     p = subprocess.Popen(command, stdout=subprocess.PIPE, stderr=subprocess.STDOUT, shell=True)
 
+    wewon = 0
+    totalgames = 0
     while True:
+        
         return_code = p.poll()  # returns None while subprocess is running
         line = p.stdout.readline().decode('utf-8')
         if '1 timed out' in line:
@@ -42,9 +46,12 @@ def test(bot, opponent_bot, map_num):
             print(opponent_name, 'crashed')
             break
         elif 'Player 1 Wins!' in line:
-            print(bot_name,'wins!')
+            totalgames += 1
+            wewon += 1
+            print(bot_name,'wins!', bot_name,'winrate: ',str(wewon/totalgames))
             break
         elif 'Player 2 Wins!' in line:
+            totalgames += 1
             print(opponent_name,'wins!')
             break
 
@@ -54,17 +61,22 @@ def test(bot, opponent_bot, map_num):
 
 if __name__ == '__main__':
     path =  os.getcwd()
-    opponents = ['opponent_bots/easy_bot.py',
+    opponents = [
+                 'opponent_bots/easy_bot.py',
                  'opponent_bots/spread_bot.py',
                  'opponent_bots/aggressive_bot.py',
                  'opponent_bots/defensive_bot.py',
                  'opponent_bots/production_bot.py']
 
-    maps = [71, 13, 24, 56, 7]
+    #maps = [71, 13, 24, 56, 7]
+    
+    maps = [random.randint(1,100), random.randint(1,100), 93, 93, 69]
+    #maps = [
 
     my_bot = 'behavior_tree_bot/bt_bot.py'
     show = len(sys.argv) < 2 or sys.argv[1] == "show"
     for opponent, map in zip(opponents, maps):
+    
         # use this command if you want to observe the bots
         if show:
             show_match(my_bot, opponent, map)

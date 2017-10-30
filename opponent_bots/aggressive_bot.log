@@ -1,26 +1,26 @@
-DEBUG:root:Order:2 17 4.0
+DEBUG:root:Order:2 19 22.0
 DEBUG:root:Finish turn
 
-DEBUG:root:Order:2 18 4.0
+DEBUG:root:Order:2 20 22.0
 DEBUG:root:Finish turn
 
-DEBUG:root:Order:2 9 40.0
+DEBUG:root:Order:2 11 32.0
 DEBUG:root:Finish turn
 
-DEBUG:root:Order:2 10 40.0
+DEBUG:root:Order:2 12 32.0
 DEBUG:root:Finish turn
 
 DEBUG:root:Finish turn
 
 DEBUG:root:Finish turn
 
-DEBUG:root:Order:2 0 41.0
 DEBUG:root:Finish turn
 
 DEBUG:root:Finish turn
 
 DEBUG:root:Finish turn
 
+DEBUG:root:Order:2 15 36.0
 DEBUG:root:Finish turn
 
 DEBUG:root:Finish turn
@@ -31,48 +31,50 @@ DEBUG:root:Finish turn
 
 DEBUG:root:Finish turn
 
-DEBUG:root:Order:17 3 43.0
 DEBUG:root:Finish turn
 
-DEBUG:root:Order:2 4 43.0
 DEBUG:root:Finish turn
 
 DEBUG:root:Finish turn
 
+DEBUG:root:Order:2 8 37.0
 DEBUG:root:Finish turn
 
 DEBUG:root:Finish turn
 
 DEBUG:root:Finish turn
 
+DEBUG:root:Order:11 21 43.0
 DEBUG:root:Finish turn
 
 DEBUG:root:Finish turn
 
 DEBUG:root:Finish turn
 
+DEBUG:root:Order:11 22 15.0
 DEBUG:root:Finish turn
 
 DEBUG:root:Finish turn
 
-DEBUG:root:Order:17 7 55.0
 DEBUG:root:Finish turn
 
-DEBUG:root:Order:2 8 55.0
+DEBUG:root:Order:19 9 47.0
+DEBUG:root:Order:2 10 47.0
 DEBUG:root:Finish turn
 
+DEBUG:root:Order:20 17 51.0
 DEBUG:root:Finish turn
 
 DEBUG:root:Finish turn
 
+DEBUG:root:Order:15 13 55.0
 DEBUG:root:Finish turn
 
-DEBUG:root:Order:10 11 58.0
 DEBUG:root:Finish turn
 
-DEBUG:root:Order:2 0 26.0
 DEBUG:root:Finish turn
 
+DEBUG:root:Order:11 19 32.0
 DEBUG:root:Finish turn
 
 DEBUG:root:Finish turn
@@ -83,54 +85,58 @@ DEBUG:root:Finish turn
 
 DEBUG:root:Finish turn
 
-DEBUG:root:Order:3 2 12.0
+DEBUG:root:Order:2 14 55.0
 DEBUG:root:Finish turn
 
-DEBUG:root:Order:9 12 58.0
+DEBUG:root:Order:15 20 17.0
 DEBUG:root:Finish turn
 
 DEBUG:root:Finish turn
 
 DEBUG:root:Finish turn
 
+DEBUG:root:Order:2 22 21.0
 DEBUG:root:Finish turn
 
 DEBUG:root:Finish turn
 
-DEBUG:root:Order:2 3 16.0
 DEBUG:root:Finish turn
 
+DEBUG:root:Order:9 21 8.0
+DEBUG:root:Order:8 5 71.0
+DEBUG:root:Order:11 6 71.0
 DEBUG:root:Finish turn
 
 DEBUG:root:Finish turn
 
 DEBUG:root:Finish turn
 
-DEBUG:root:Order:0 3 16.0
+DEBUG:root:Order:10 13 18.0
 DEBUG:root:Finish turn
 
-DEBUG:root:Order:8 15 63.0
 DEBUG:root:Finish turn
 
+DEBUG:root:Order:15 19 44.0
 DEBUG:root:Finish turn
 
 DEBUG:root:Finish turn
 
 DEBUG:root:Finish turn
 
+DEBUG:root:Order:20 10 26.0
+DEBUG:root:Order:2 11 47.0
 DEBUG:root:Finish turn
 
 DEBUG:root:Finish turn
 
+DEBUG:root:Order:17 9 26.0
 DEBUG:root:Finish turn
 
-DEBUG:root:Order:7 4 13.0
 DEBUG:root:Finish turn
 
-DEBUG:root:Order:8 0 42.0
 DEBUG:root:Finish turn
 
-DEBUG:root:Order:7 11 9.0
+DEBUG:root:Order:2 8 20.0
 DEBUG:root:Finish turn
 
 DEBUG:root:Finish turn
@@ -139,60 +145,128 @@ DEBUG:root:Finish turn
 
 DEBUG:root:Finish turn
 
+DEBUG:root:Order:2 14 28.0
+DEBUG:root:Order:15 20 21.0
 DEBUG:root:Finish turn
 
 DEBUG:root:Finish turn
 
+DEBUG:root:Order:11 21 10.0
 DEBUG:root:Finish turn
 
+DEBUG:root:Order:22 5 14.0
+DEBUG:root:Order:2 8 11.0
 DEBUG:root:Finish turn
 
-DEBUG:root:Order:8 12 9.0
 DEBUG:root:Finish turn
 
+DEBUG:root:Order:6 13 16.0
 DEBUG:root:Finish turn
 
 DEBUG:root:Finish turn
 
+DEBUG:root:Order:15 19 44.0
 DEBUG:root:Finish turn
 
-DEBUG:root:Order:0 15 22.0
+DEBUG:root:Order:15 6 32.0
 DEBUG:root:Finish turn
 
 DEBUG:root:Finish turn
 
+DEBUG:root:Order:9 8 14.0
+DEBUG:root:Order:11 10 34.0
 DEBUG:root:Finish turn
 
+DEBUG:root:Order:2 22 35.0
 DEBUG:root:Finish turn
 
 DEBUG:root:Finish turn
 
 DEBUG:root:Finish turn
 
-DEBUG:root:Order:0 3 16.0
 DEBUG:root:Finish turn
 
+DEBUG:root:Order:6 20 11.0
 DEBUG:root:Finish turn
 
+DEBUG:root:Order:14 5 16.0
+DEBUG:root:Order:9 21 8.0
 DEBUG:root:Finish turn
 
-DEBUG:root:Order:15 4 14.0
 DEBUG:root:Finish turn
 
+DEBUG:root:Order:15 8 26.0
 DEBUG:root:Finish turn
 
+DEBUG:root:Order:6 13 16.0
+DEBUG:root:Order:2 17 22.0
 DEBUG:root:Finish turn
 
 DEBUG:root:Finish turn
 
 DEBUG:root:Finish turn
 
+DEBUG:root:Order:2 9 46.0
 DEBUG:root:Finish turn
 
 DEBUG:root:Finish turn
 
 DEBUG:root:Finish turn
 
+DEBUG:root:Order:15 19 44.0
+DEBUG:root:Finish turn
+
+DEBUG:root:Finish turn
+
+DEBUG:root:Order:20 6 27.0
+DEBUG:root:Finish turn
+
+DEBUG:root:Finish turn
+
+DEBUG:root:Finish turn
+
+DEBUG:root:Order:20 21 6.0
+DEBUG:root:Finish turn
+
+DEBUG:root:Finish turn
+
+DEBUG:root:Order:8 9 10.0
+DEBUG:root:Finish turn
+
+DEBUG:root:Order:10 13 18.0
+DEBUG:root:Finish turn
+
+DEBUG:root:Order:22 5 14.0
+DEBUG:root:Order:8 17 20.0
+DEBUG:root:Finish turn
+
+DEBUG:root:Finish turn
+
+DEBUG:root:Finish turn
+
+DEBUG:root:Finish turn
+
+DEBUG:root:Finish turn
+
+DEBUG:root:Finish turn
+
+DEBUG:root:Order:19 16 27.0
+DEBUG:root:Finish turn
+
+DEBUG:root:Order:6 22 17.0
+DEBUG:root:Finish turn
+
+DEBUG:root:Finish turn
+
+DEBUG:root:Finish turn
+
+DEBUG:root:Finish turn
+
+DEBUG:root:Finish turn
+
+DEBUG:root:Finish turn
+
+DEBUG:root:Order:9 21 8.0
 DEBUG:root:Finish turn
 
 DEBUG:root:Finish turn
